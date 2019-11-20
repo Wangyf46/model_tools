@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69cfc6a2-99d8-4742-913a-abaca55e48ca" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv" afterPath="$PROJECT_DIR$/../mmcv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gitignore" afterPath="$PROJECT_DIR$/../.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gitmodules" afterPath="$PROJECT_DIR$/../.gitmodules" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../analyze_coco_results.py" afterPath="$PROJECT_DIR$/../analyze_coco_results.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../auto_annotation.py" afterPath="$PROJECT_DIR$/../auto_annotation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../coco2cityscape.py" afterPath="$PROJECT_DIR$/../coco2cityscape.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/__init__.py" afterPath="$PROJECT_DIR$/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/annotation.py" afterPath="$PROJECT_DIR$/annotation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/annotation_format.py" afterPath="$PROJECT_DIR$/annotation_format.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coco_analyze.py" afterPath="$PROJECT_DIR$/coco_analyze.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pascal_voc.py" afterPath="$PROJECT_DIR$/pascal_voc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dataset/CalmCar_2018.label" afterPath="$PROJECT_DIR$/../dataset/CalmCar_2018.label" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dataset/CalmCar_Detection.label" afterPath="$PROJECT_DIR$/../dataset/CalmCar_Detection.label" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dataset/CalmCar_Marker.label" afterPath="$PROJECT_DIR$/../dataset/CalmCar_Marker.label" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dataset/CalmCar_Object.label" afterPath="$PROJECT_DIR$/../dataset/CalmCar_Object.label" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dataset/CalmCar_Object_2018.label" afterPath="$PROJECT_DIR$/../dataset/CalmCar_Object_2018.label" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dataset/CalmCar_TSR_2018.label" afterPath="$PROJECT_DIR$/../dataset/CalmCar_TSR_2018.label" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../generate_data_dist.py" afterPath="$PROJECT_DIR$/../generate_data_dist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../labelme2coco.py" afterPath="$PROJECT_DIR$/../labelme2coco.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../merge_xmls.py" afterPath="$PROJECT_DIR$/../merge_xmls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/.gitignore" afterPath="$PROJECT_DIR$/../mmcv/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/__init__.py" afterPath="$PROJECT_DIR$/../mmcv/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/cnn/__init__.py" afterPath="$PROJECT_DIR$/../mmcv/cnn/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/cnn/resnet.py" afterPath="$PROJECT_DIR$/../mmcv/cnn/resnet.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/cnn/shufflenet_v2.py" afterPath="$PROJECT_DIR$/../mmcv/cnn/shufflenet_v2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/cnn/weight_init.py" afterPath="$PROJECT_DIR$/../mmcv/cnn/weight_init.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/cnn/xception_prev2.py" afterPath="$PROJECT_DIR$/../mmcv/cnn/xception_prev2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/cnn/xception_v2.py" afterPath="$PROJECT_DIR$/../mmcv/cnn/xception_v2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/fileio/__init__.py" afterPath="$PROJECT_DIR$/../mmcv/fileio/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/fileio/handlers/__init__.py" afterPath="$PROJECT_DIR$/../mmcv/fileio/handlers/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/fileio/handlers/base.py" afterPath="$PROJECT_DIR$/../mmcv/fileio/handlers/base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/fileio/handlers/json_handler.py" afterPath="$PROJECT_DIR$/../mmcv/fileio/handlers/json_handler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/fileio/handlers/pickle_handler.py" afterPath="$PROJECT_DIR$/../mmcv/fileio/handlers/pickle_handler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/fileio/handlers/yaml_handler.py" afterPath="$PROJECT_DIR$/../mmcv/fileio/handlers/yaml_handler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/fileio/io.py" afterPath="$PROJECT_DIR$/../mmcv/fileio/io.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/fileio/parse.py" afterPath="$PROJECT_DIR$/../mmcv/fileio/parse.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/image/__init__.py" afterPath="$PROJECT_DIR$/../mmcv/image/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/image/io.py" afterPath="$PROJECT_DIR$/../mmcv/image/io.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/image/transforms/__init__.py" afterPath="$PROJECT_DIR$/../mmcv/image/transforms/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/image/transforms/colorspace.py" afterPath="$PROJECT_DIR$/../mmcv/image/transforms/colorspace.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/image/transforms/geometry.py" afterPath="$PROJECT_DIR$/../mmcv/image/transforms/geometry.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/image/transforms/normalize.py" afterPath="$PROJECT_DIR$/../mmcv/image/transforms/normalize.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/image/transforms/resize.py" afterPath="$PROJECT_DIR$/../mmcv/image/transforms/resize.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/model_summary/README.md" afterPath="$PROJECT_DIR$/../mmcv/model_summary/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/model_summary/__init__.py" afterPath="$PROJECT_DIR$/../mmcv/model_summary/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/model_summary/model_hook.py" afterPath="$PROJECT_DIR$/../mmcv/model_summary/model_hook.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/model_summary/model_summary.py" afterPath="$PROJECT_DIR$/../mmcv/model_summary/model_summary.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/model_summary/module_madd.py" afterPath="$PROJECT_DIR$/../mmcv/model_summary/module_madd.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/model_summary/summary_tree.py" afterPath="$PROJECT_DIR$/../mmcv/model_summary/summary_tree.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/parallel/__init__.py" afterPath="$PROJECT_DIR$/../mmcv/parallel/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/parallel/_functions.py" afterPath="$PROJECT_DIR$/../mmcv/parallel/_functions.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/parallel/collate.py" afterPath="$PROJECT_DIR$/../mmcv/parallel/collate.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/parallel/data_container.py" afterPath="$PROJECT_DIR$/../mmcv/parallel/data_container.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/parallel/data_loader.py" afterPath="$PROJECT_DIR$/../mmcv/parallel/data_loader.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/parallel/data_parallel.py" afterPath="$PROJECT_DIR$/../mmcv/parallel/data_parallel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/parallel/distributed.py" afterPath="$PROJECT_DIR$/../mmcv/parallel/distributed.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/parallel/scatter_gather.py" afterPath="$PROJECT_DIR$/../mmcv/parallel/scatter_gather.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/__init__.py" afterPath="$PROJECT_DIR$/../mmcv/runner/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/checkpoint.py" afterPath="$PROJECT_DIR$/../mmcv/runner/checkpoint.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/hooks/__init__.py" afterPath="$PROJECT_DIR$/../mmcv/runner/hooks/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/hooks/checkpoint.py" afterPath="$PROJECT_DIR$/../mmcv/runner/hooks/checkpoint.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/hooks/closure.py" afterPath="$PROJECT_DIR$/../mmcv/runner/hooks/closure.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/hooks/hook.py" afterPath="$PROJECT_DIR$/../mmcv/runner/hooks/hook.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/hooks/iter_timer.py" afterPath="$PROJECT_DIR$/../mmcv/runner/hooks/iter_timer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/hooks/logger/__init__.py" afterPath="$PROJECT_DIR$/../mmcv/runner/hooks/logger/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/hooks/logger/base.py" afterPath="$PROJECT_DIR$/../mmcv/runner/hooks/logger/base.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/hooks/logger/pavi.py" afterPath="$PROJECT_DIR$/../mmcv/runner/hooks/logger/pavi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/hooks/logger/tensorboard.py" afterPath="$PROJECT_DIR$/../mmcv/runner/hooks/logger/tensorboard.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/hooks/logger/text.py" afterPath="$PROJECT_DIR$/../mmcv/runner/hooks/logger/text.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/hooks/lr_updater.py" afterPath="$PROJECT_DIR$/../mmcv/runner/hooks/lr_updater.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/hooks/memory.py" afterPath="$PROJECT_DIR$/../mmcv/runner/hooks/memory.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/hooks/optimizer.py" afterPath="$PROJECT_DIR$/../mmcv/runner/hooks/optimizer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/hooks/sampler_seed.py" afterPath="$PROJECT_DIR$/../mmcv/runner/hooks/sampler_seed.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/log_buffer.py" afterPath="$PROJECT_DIR$/../mmcv/runner/log_buffer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/parallel_test.py" afterPath="$PROJECT_DIR$/../mmcv/runner/parallel_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/priority.py" afterPath="$PROJECT_DIR$/../mmcv/runner/priority.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/runner.py" afterPath="$PROJECT_DIR$/../mmcv/runner/runner.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/runner/utils.py" afterPath="$PROJECT_DIR$/../mmcv/runner/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/sync_batchnorm/__init__.py" afterPath="$PROJECT_DIR$/../mmcv/sync_batchnorm/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/sync_batchnorm/csrc/syncbn.cpp" afterPath="$PROJECT_DIR$/../mmcv/sync_batchnorm/csrc/syncbn.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/sync_batchnorm/csrc/welford.cu" afterPath="$PROJECT_DIR$/../mmcv/sync_batchnorm/csrc/welford.cu" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/sync_batchnorm/optimized_sync_batchnorm.py" afterPath="$PROJECT_DIR$/../mmcv/sync_batchnorm/optimized_sync_batchnorm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/sync_batchnorm/optimized_sync_batchnorm_kernel.py" afterPath="$PROJECT_DIR$/../mmcv/sync_batchnorm/optimized_sync_batchnorm_kernel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/sync_batchnorm/setup.py" afterPath="$PROJECT_DIR$/../mmcv/sync_batchnorm/setup.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/sync_batchnorm/sync_batchnorm.py" afterPath="$PROJECT_DIR$/../mmcv/sync_batchnorm/sync_batchnorm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/sync_batchnorm/sync_batchnorm_kernel.py" afterPath="$PROJECT_DIR$/../mmcv/sync_batchnorm/sync_batchnorm_kernel.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/utils/__init__.py" afterPath="$PROJECT_DIR$/../mmcv/utils/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/utils/config.py" afterPath="$PROJECT_DIR$/../mmcv/utils/config.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/utils/misc.py" afterPath="$PROJECT_DIR$/../mmcv/utils/misc.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/utils/path.py" afterPath="$PROJECT_DIR$/../mmcv/utils/path.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/utils/progressbar.py" afterPath="$PROJECT_DIR$/../mmcv/utils/progressbar.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/utils/timer.py" afterPath="$PROJECT_DIR$/../mmcv/utils/timer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/version.py" afterPath="$PROJECT_DIR$/../mmcv/version.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/version_info.py" afterPath="$PROJECT_DIR$/../mmcv/version_info.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/visualization/__init__.py" afterPath="$PROJECT_DIR$/../mmcv/visualization/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/visualization/color.py" afterPath="$PROJECT_DIR$/../mmcv/visualization/color.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../mmcv/visualization/image.py" afterPath="$PROJECT_DIR$/../mmcv/visualization/image.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../requirement.txt" afterPath="$PROJECT_DIR$/../requirement.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scripts/analyze_coco_results.sh" afterPath="$PROJECT_DIR$/../scripts/analyze_coco_results.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scripts/auto_annotation.sh" afterPath="$PROJECT_DIR$/../scripts/auto_annotation.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scripts/coco2cityscape.sh" afterPath="$PROJECT_DIR$/../scripts/coco2cityscape.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scripts/generate_data_dist.sh" afterPath="$PROJECT_DIR$/../scripts/generate_data_dist.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scripts/generate_list.sh" afterPath="$PROJECT_DIR$/../scripts/generate_list.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scripts/labelme2coco.sh" afterPath="$PROJECT_DIR$/../scripts/labelme2coco.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scripts/png2jpg.sh" afterPath="$PROJECT_DIR$/../scripts/png2jpg.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scripts/transfer_category.sh" afterPath="$PROJECT_DIR$/../scripts/transfer_category.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scripts/usefull_command.sh" afterPath="$PROJECT_DIR$/../scripts/usefull_command.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scripts/validate_xmls.sh" afterPath="$PROJECT_DIR$/../scripts/validate_xmls.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scripts/visualization.sh" afterPath="$PROJECT_DIR$/../scripts/visualization.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../scripts/voc2coco.sh" afterPath="$PROJECT_DIR$/../scripts/voc2coco.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../transfer_category.py" afterPath="$PROJECT_DIR$/../transfer_category.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../validate_xmls.py" afterPath="$PROJECT_DIR$/../validate_xmls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../visualization.py" afterPath="$PROJECT_DIR$/../visualization.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../voc2coco.py" afterPath="$PROJECT_DIR$/../voc2coco.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mmcv/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mmcv/visualization/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="color.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mmcv/visualization/color.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="image.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../mmcv/visualization/image.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1913">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generate_submission.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../quickDraw/generate_submission.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train_simplified.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../quickDraw/train_simplified.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1242">
+              <caret line="69" column="44" lean-forward="true" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analyze_coco_results.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../analyze_coco_results.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auto_annotation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../auto_annotation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coco2cityscape.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../coco2cityscape.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-41">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="338" />
+    <option name="y" value="105" />
+    <option name="width" value="1398" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="core" type="cbb8eebc:String" user="core" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="model_tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quickDraw" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69cfc6a2-99d8-4742-913a-abaca55e48ca" name="Default" comment="" />
+      <created>1544091684824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544091684824</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="338" y="105" width="1398" height="1020" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/annotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/annotation_format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coco_analyze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pascal_voc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../generate_data_dist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../validate_xmls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../visualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../voc2coco.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../merge_xmls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../transfer_category.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../labelme2coco.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../keywords_in_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mmcv/version.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mmcv/version_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mmcv/compile.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mmcv/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mmcv/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mmcv/visualization/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mmcv/visualization/color.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mmcv/visualization/image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1913">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../analyze_coco_results.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../auto_annotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../coco2cityscape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../quickDraw/generate_submission.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../quickDraw/train_simplified.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="69" column="44" lean-forward="true" selection-start-line="69" selection-start-column="44" selection-end-line="69" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
